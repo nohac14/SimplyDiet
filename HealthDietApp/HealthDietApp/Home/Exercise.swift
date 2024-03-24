@@ -2,7 +2,7 @@
 //  Exercise.swift
 //  HealthDietApp
 //
-//  Created by Utkarsh on 3/24/24.
+//  Created by Utkarsh Sharma on 3/24/24.
 //
 
 import SwiftUI
