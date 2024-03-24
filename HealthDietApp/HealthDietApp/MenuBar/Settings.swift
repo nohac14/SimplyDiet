@@ -2,7 +2,7 @@
 //  Settings.swift
 //  HealthDietApp
 //
-//  Created by J L on 3/23/24.
+//  Created by Jonas Lazebnik on 3/23/24.
 //
 
 import SwiftUI
