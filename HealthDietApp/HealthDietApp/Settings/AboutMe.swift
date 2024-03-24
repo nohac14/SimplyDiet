@@ -32,7 +32,7 @@ struct AboutMeView: View {
                     
                     TeamMemberView(name: "\nUtkarsh S.", role: "Co-Founder & Lead Developer", bio: "Our lead developer, Utkarsh, is committed to delivering a seamless user experience. With expertise in app development and a passion for innovation, Utkarsh works tirelessly to implement new features and enhancements to make SimplyDiet the best it can be.")
                     
-                    TeamMemberView(name: "\nKarthik M.", role: "Co-Founder & Marketing Director", bio: "Rohan is our marketing guru, responsible for spreading the word about SimplyDiet and connecting with our users. With a background in digital marketing, Karthik brings creative strategies to promote our app and help more people on their health journey.\n\n")
+                    TeamMemberView(name: "\nKarthik M.", role: "Co-Founder & Marketing Director", bio: "Karthik is our marketing guru, responsible for spreading the word about SimplyDiet and connecting with our users. With a background in digital marketing, Karthik brings creative strategies to promote our app and help more people on their health journey.\n\n")
                 }
                 
                 Text("Contact Us")
