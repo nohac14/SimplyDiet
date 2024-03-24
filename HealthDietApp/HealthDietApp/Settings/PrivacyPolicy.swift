@@ -2,7 +2,7 @@
 //  PrivacyPolicy.swift
 //  HealthDietApp
 //
-//  Created by J L on 3/24/24.
+//  Created by Arjun Anand on 3/24/24.
 //
 
 import SwiftUI
