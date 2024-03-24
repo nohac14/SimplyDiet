@@ -2,7 +2,7 @@
 //  HealthDietAppApp.swift
 //  HealthDietApp
 //
-//  Created by J L on 3/23/24.
+//  Created by Arjun Anand on 3/23/24.
 //
 
 import SwiftUI
