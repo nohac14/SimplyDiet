@@ -11,7 +11,7 @@ struct AboutMeView: View {
     var body: some View {
         ScrollView {
             VStack(alignment: .leading) {
-                Text("Welcome to SimplyDiet, your personalized calorie counter and food diary app! We're here to help you achieve your health and fitness goals by making it easier to track your daily food intake and manage your calorie consumption.\n")
+                Text("Welcome to SimplyDiet, your personalized calorie counter and food diary app! We're here to help you achieve your health and fitness goals by making tracking your daily food intake and managing your calorie consumption easier.\n")
                     .font(.body)
                 
                 Text("Our Mission")
