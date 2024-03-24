@@ -1,4 +1,9 @@
-//Utkarsh and Jonas and 
+//
+//  Home.swift
+//  HealthDietApp
+//
+//  Created by Jonas Lazebnik on 3/23/24.
+//
 import SwiftUI
 
 struct Home: View {
