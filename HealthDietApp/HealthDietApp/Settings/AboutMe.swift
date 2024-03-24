@@ -28,7 +28,7 @@ struct AboutMeView: View {
                 VStack(alignment: .leading, spacing: 10) {
                     TeamMemberView(name: "\nArjun A.", role: "Co-Founder & CEO", bio: "As the founder of SimplyDiet, I'm passionate about health and wellness. With a background in nutrition and fitness, I created this app to provide individuals like myself a user-friendly tool to take control of their dietary habits and achieve their wellness goals.")
                     
-                    TeamMemberView(name: "\nJonas L.", role: "Co-Founder & Chief Nutritionist", bio: "With a degree in nutrition science and years of experience in the field, Team Member Name is dedicated to ensuring that our app provides accurate nutritional information and helpful tips to support your health journey.")
+                    TeamMemberView(name: "\nJonas L.", role: "Co-Founder & Chief Nutritionist", bio: "With a degree in nutrition science and years of experience in the field, Jonas is dedicated to ensuring that our app provides accurate nutritional information and helpful tips to support your health journey.")
                     
                     TeamMemberView(name: "\nUtkarsh S.", role: "Co-Founder & Lead Developer", bio: "Our lead developer, Utkarsh, is committed to delivering a seamless user experience. With expertise in app development and a passion for innovation, Utkarsh works tirelessly to implement new features and enhancements to make SimplyDiet the best it can be.")
                     
