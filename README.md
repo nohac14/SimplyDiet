@@ -1,4 +1,4 @@
 SimplyDiet is an iOS application meant to run on an iPhone. The app's main function is to track your food, calories, and exercise. You simply input the food and the amount of calories it has (and exercise) and a calorie counter will be updated on the main Home tab. There is a Profile tab where the user can save their personal information (height, weight, etc.) and offers body mass index (BMI) calculator functionality. The Settings tab offers the option to opt in for notifications that remind the user to add their calories after each meal of the day (12pm for breakfast, 5pm for lunch, 10pm for dinner).
 
 NOTE: Push Notification Capabilities are a "premium" developer tool and for it to work on a physical iPhone, it needs to be paid for.
-NOTE: For proper testing when extracting all packages, be sure to delelte two automatic target files that are created in xcode. Only one should file "HealthDietApp" should exist.
+NOTE: For proper testing when extracting all packages, be sure to delelte two automatic target files that are created in xcode. Only one file "HealthDietApp" should exist.
